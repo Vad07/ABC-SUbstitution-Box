@@ -1,3 +1,6 @@
 # ABC-SUbstitution-Box
-
-1 Implementing ABC algo in the Sbox concept
+Implementing the Artificially bees algorithm to design a cryptographically strong sboxe.</br>
+TODO </br>
+1.<del>Implementing ABC algo in the Sbox concept</del></br>
+2.Matlab program depicting various gradient of ABC</br>
+3.Empbedding diffrent scripts</br>
